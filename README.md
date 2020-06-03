@@ -34,7 +34,7 @@ Use pythonw command for the program to be able to gain system screen access.
 
 ```bash
       pythonw jerry.py
-    ```
+```
     
 #### Implementation
 
