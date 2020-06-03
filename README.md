@@ -10,19 +10,19 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
 
 #### Requirements
 
-  - Opencv   
+  - Opencv | Computer vision library
     ```
     pip install opencv-python
     ```
-  - Numpy 
+  - Numpy | Fundamental computation
     ```
     pip install numpy
     ```
-  - Pynput  
+  - Pynput | Control user input devices
     ```
     pip install pynput
     ```
-  - WX
+  - WX | Python GUI 
     ```
     pip install wxpython
     ```
