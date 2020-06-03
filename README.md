@@ -2,6 +2,8 @@
 
 Control Mouse using Hand Gestures
 
+![Gesture Control](https://miro.medium.com/max/2000/1*-wc57H4KMXJXZpeze0eVSQ.gif)
+
 #### Introduction
 
 Gesture control using Computer Vision and webcams may not be as accurate as other sophisticated hardware implementations, but for basic actions like clicking, dragging, swiping, scrolling etc. it is a much cheaper yet effective solution.
