@@ -1,4 +1,4 @@
-# Tom-and-Jerry
+# Virtual Mouse
 
 Control Mouse using Hand Gestures
 
