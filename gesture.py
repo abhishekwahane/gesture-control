@@ -1,6 +1,4 @@
-# AI Mini Project
-
-# Gesture control usinng Computer Vision
+# Gesture control using Computer Vision
 
 import cv2
 import numpy as np
