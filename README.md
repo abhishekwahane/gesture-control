@@ -27,6 +27,15 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
       pip install wxpython
     ```
     
+    
+#### Exceution
+
+Use pythonw command for the program to be able to gain system screen access.
+
+```bash
+      pythonw jerry.py
+    ```
+    
 #### Implementation
 
 It detects two states:
