@@ -25,7 +25,8 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
   - WX
     ```bash
       pip install wxpython
-      
+    ```
+    
 #### Implementation
 
 It detects two states:
