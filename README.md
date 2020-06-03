@@ -11,19 +11,19 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
 #### Requirements
 
   - Opencv   
-    ```bash
+    ```
     pip install opencv-python
     ```
   - Numpy 
-    ```bash
+    ```
     pip install numpy
     ```
   - Pynput  
-    ```bash
+    ```
     pip install pynput
     ```
   - WX
-    ```bash
+    ```
     pip install wxpython
     ```
     
