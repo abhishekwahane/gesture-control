@@ -12,11 +12,11 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
 
   - Opencv   
     ```bash
-      pip install opencv-python
+    pip install opencv-python
     ```
   - Numpy 
     ```bash
-      pip install numpy
+    pip install numpy
     ```
   - Pynput  
     ```bash
@@ -24,7 +24,7 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
     ```
   - WX
     ```bash
-      pip install wxpython
+    pip install wxpython
     ```
     
     
@@ -33,7 +33,7 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
 Use pythonw command for the program to be able to gain system screen access.
 
 ```bash
-      pythonw jerry.py
+pythonw jerry.py
 ```
     
 #### Implementation
