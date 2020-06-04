@@ -35,7 +35,7 @@ Such systems can be deployed at Airport Kiosks, Booking Counters, Ordering placi
 Use pythonw command for the program to be able to gain system screen access.
 
 ```
-pythonw jerry.py
+pythonw gesture.py
 ```
     
 #### Implementation
