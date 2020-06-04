@@ -37,7 +37,7 @@ Use pythonw command for the program to be able to gain system screen access.
 ```
 pythonw gesture.py
 ```
-    
+ 
 #### Implementation
 
 It detects two states:
